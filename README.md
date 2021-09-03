@@ -17,15 +17,16 @@
 <div>
   <h2> 🛠 My Skills 🛠 </h2>
   <p>
-  <h4>Web Developer</h4>
+  <h4>Web/APP Developer</h4>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/VScode-000000?style=flat&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/></a>&nbsp 
   
   <h4>AI Developer</h4>
@@ -45,11 +46,12 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
-  
- <br />
+
+  <br />
+  <hr />
   <h5>Visit Here Freely</h5>
     <a href="https://www.facebook.com/profile.php?id=100005890684594"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>&nbsp
+    <a href="https://www.instagram.com/jungpanda02/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>&nbsp
   <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=brankein13@gm.gist.ac.kr"/></a>
   
 </div>
