@@ -10,13 +10,12 @@
 
   I enjoy 🎤🎤singing musical numbers, and 🏋🏼‍♀️🏋🏼‍♀️workout everyday(except Sunday haha) <br />
   I'm 20 years old, and still have lots of time to learn and practice <br />
-  
-  
-  
-  
-  
+  I look forward to meet many people, and having many connections with other developers ⌨️⌨️ 
 
-<div> 
+  <br />
+
+<div>
+  <h2> 🛠 My Skills 🛠 </h2>
   <p>
   <h4>Web Developer</h4>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
@@ -47,8 +46,9 @@
     <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
   
+ <br />
   <h5>Visit Here Freely</h5>
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
+    <a href="https://www.facebook.com/profile.php?id=100005890684594"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>&nbsp
   <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=brankein13@gm.gist.ac.kr"/></a>
   
