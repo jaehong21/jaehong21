@@ -3,7 +3,7 @@
 </p>
 
   👏👏 Hi there, I'm **WEB developer & AI developer** using **Pytorch & React**. 🖥<br />
-  💁🏼‍♂️ Others may find this too much, but I'm trying their hardest to learn both fields. <br />
+  💁🏼‍♂️ Others may think this is too much, but I'm trying my best to learn both fields. <br />
   You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
 <br />
 
