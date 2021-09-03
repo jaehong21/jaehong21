@@ -1,11 +1,22 @@
-### Hi, I'm jaehong21
-<a href="https://jaehong21.gitbook.io/ai-jaehong/"><img src="https://img.shields.io/badge/gitBook-AI__Study-blue?logo=gitbook" /></a>
+<p style="font-size: 17px;">
+    <a href="https://jaehong21.gitbook.io/ai-jaehong/"><img src="https://img.shields.io/badge/gitBook-AI__Portfolio-blue?style=flat-square&logo=gitbook" /></a>
+</p>
 
-<p> 👏👏 Hi there, I'm jaehong21. I'm still 
+  👏👏 Hi there, I'm **WEB developer & AI developer** using **Pytorch & React**. 🖥<br />
+  💁🏼‍♂️ Others may find this too much, but I'm trying their hardest to learn both fields. <br />
+  You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
+<br />
+<br />
 
-<div> 
+  I enjoy 🎤🎤singing musical numbers, and 🏋🏼‍♀️🏋🏼‍♀️workout everyday(except Sunday haha) <br />
+  I'm 20 years old, and still have lots of time to learn and practice <br />
+  
+  
+  
+  
   
 
+<div> 
   <p>
   <h4>Web Developer</h4>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
@@ -17,9 +28,6 @@
     <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/VScode-000000?style=flat&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/></a>&nbsp 
-  <br />
-
-  <br />
   
   <h4>AI Developer</h4>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp;
@@ -34,6 +42,7 @@
     
   <h5>More</h5>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Terminal-1D1D1D?style=flat&logo=WindowsTerminal&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
@@ -41,5 +50,6 @@
   <h5>Visit Here Freely</h5>
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>&nbsp
-
+  <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=brankein13@gm.gist.ac.kr"/></a>
+  
 </div>
