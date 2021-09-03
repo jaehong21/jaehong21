@@ -7,7 +7,7 @@
   You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
 <br />
 
-  I enjoy 🎤🎤singing musical numbers, and 🏋🏼‍♀️🏋🏼‍♀️workout everyday(except Sunday haha) <br />
+  I enjoy 🎤🎤singing musical numbers, and 🏋🏼‍♀️🏋🏼‍♀️workout everyday(except Sunday >~<) <br />
   I'm 20 years old, and still have lots of time to learn and practice <br />
   I look forward to meet many people, and having many connections with other developers ⌨️⌨️ 
 
