@@ -6,13 +6,10 @@
   💁🏼‍♂️ Others may find this too much, but I'm trying their hardest to learn both fields. <br />
   You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
 <br />
-<br />
 
   I enjoy 🎤🎤singing musical numbers, and 🏋🏼‍♀️🏋🏼‍♀️workout everyday(except Sunday haha) <br />
   I'm 20 years old, and still have lots of time to learn and practice <br />
   I look forward to meet many people, and having many connections with other developers ⌨️⌨️ 
-
-  <br />
 
 <div>
   <h2> 🛠 My Skills 🛠 </h2>
@@ -47,7 +44,6 @@
     <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
 
-  <br />
   <hr />
   <h5>Visit Here Freely</h5>
     <a href="https://www.facebook.com/profile.php?id=100005890684594"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
