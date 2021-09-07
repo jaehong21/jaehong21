@@ -22,7 +22,6 @@
   <br />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/VScode-000000?style=flat&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/></a>&nbsp 
   
