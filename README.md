@@ -1,7 +1,8 @@
 <p style="font-size: 17px;">
     <a href="https://jaehong21.gitbook.io/ai-jaehong/"><img src="https://img.shields.io/badge/gitBook-AI__Portfolio-blue?style=flat-square&logo=gitbook" /></a>
+    Click Here to view my AI_Portfolio
 </p>
-
+    
   👏👏 Hi there, I'm **WEB developer & AI developer** using **Pytorch & React**. 🖥<br />
   💁🏼‍♂️ Others may think this is too much, but I'm trying my best to learn both fields. <br />
   You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
