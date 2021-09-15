@@ -1,5 +1,6 @@
 <p style="font-size: 17px;">
     <a href="https://jaehong21.gitbook.io/ai-jaehong/"><img src="https://img.shields.io/badge/gitBook-AI__Portfolio-blue?style=flat-square&logo=gitbook" /></a>
+    <br />
     Click Here to view my AI_Portfolio
 </p>
     
