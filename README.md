@@ -3,7 +3,7 @@
     Click Here to view my AI_Portfolio
 </p>
     
-  👏👏 Hi there, I'm **WEB developer & AI developer** using **Pytorch & React**. 🖥<br />
+  👏👏 Hi there, I'm **WEB/APP developer & AI developer** using **Pytorch & React**. 🖥<br />
   💁🏼‍♂️ Others may think this is too much, but I'm trying my best to learn both fields. <br />
   You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
 <br />
@@ -16,7 +16,6 @@
   <h2> 🛠 My Skills 🛠 </h2>
   <p>
   <h4>Web/APP Developer</h4>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
@@ -38,6 +37,7 @@
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a>&nbsp
     
   <h5>More</h5>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Terminal-1D1D1D?style=flat&logo=WindowsTerminal&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
