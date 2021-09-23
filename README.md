@@ -49,6 +49,7 @@
   <h5>Visit Here Freely</h5>
     <a href="https://www.facebook.com/profile.php?id=100005890684594"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
     <a href="https://www.instagram.com/jungpanda02/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>&nbsp
-  <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=brankein13@gm.gist.ac.kr"/></a>
+    <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=brankein13@gm.gist.ac.kr"/></a>&nbsp
+    <a href="https://cord-emoji-dbe.notion.site/75889dbc83d341f884fb071f2ee20317?v=031336ca0fcd4c168f684fd9e055e202/"><img src="https://img.shields.io/badge/Notion-grey?logo=Notion&logoColor=white" /></a>&nbsp
   
 </div>
