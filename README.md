@@ -15,7 +15,7 @@
   I look forward to meet many people, and having many connections with other developers ⌨️⌨️ 
 
 <div>
-  <h2> 🛠 My Skills 🛠 </h2>
+  <h3> 🛠 Techs that I've used at least once 🛠 </h3>
   <p>
   <h4>Web/APP Developer</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -26,6 +26,11 @@
     <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/></a>&nbsp 
+  <br />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
+  <br />
+    
   
   <h4>AI Developer</h4>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp;
