@@ -5,8 +5,8 @@
     Click Here to view my Portfolio
 </p>
     
-  👏👏 Hi there, I'm **WEB/APP developer & AI developer** using **Pytorch & React**. 🖥<br />
-  💁🏼‍♂️ Others may think this is too much, but I'm trying my best to learn both fields. <br />
+  👏👏 Hi there, I'm **WEB/APP developer** using **React**. 🖥<br />
+  💁🏼‍♂️ Others may think this is too much, but I'm trying my best. <br />
   You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
 <br />
 
