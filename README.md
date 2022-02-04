@@ -55,6 +55,6 @@
   <h5>Visit Here Freely</h5>
     <a href="https://www.facebook.com/profile.php?id=100005890684594"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
     <a href="https://www.instagram.com/jungpanda02/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>&nbsp
-    <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=brankein13@gm.gist.ac.kr"/></a>&nbsp
+    <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=jaehong21@gm.gist.ac.kr"/></a>&nbsp
   
 </div>
