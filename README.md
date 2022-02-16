@@ -1,8 +1,7 @@
 <p style="font-size: 17px;">
-        <a href="https://cord-emoji-dbe.notion.site/Jaehong-Jung-371e37a4015a4189bc329b419cc241c7"><img src="https://img.shields.io/badge/Notion-About__JaeHong-yellow?logo=Notion&logoColor=white" /></a>&nbsp
-    <a href="https://jaehong21.gitbook.io/ai-jaehong/"><img src="https://img.shields.io/badge/gitBook-AI__Portfolio-blue?style=flat-square&logo=gitbook" /></a>
+        <a href="https://cord-emoji-dbe.notion.site/Jaehong-Jung-371e37a4015a4189bc329b419cc241c7">
+    <a href="https://jaehong21.gitbook.io/ai-jaehong/"><img src="https://img.shields.io/badge/gitBook-AI__Portfolio-blue?logo=gitbook" /></a>
     <br />
-    Click Here to view my Portfolio
 </p>
     
   👏👏 Hi there, I'm currently a **WEB developer** and looking forward to work as a **Blockchain developer**. 🖥<br />
