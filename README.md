@@ -4,14 +4,14 @@
     <br />
 </p>
     
-  👏👏 Hi there, I'm currently a **WEB developer** and looking forward to work as a **Full-Stack Developer**. 🖥<br />
+  👏👏 Hi there, I'm currently a **WEB developer** and looking forward to work as a **Blockchain Developer**. 🖥<br />
   💁🏼‍♂️ Others may think this is too much, but I'm trying my best. <br />
-  You can visit my repositories to look around some projects. Also, I frequently update my portolio which linked above 
+  You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
 <br />
 
   I enjoy 🎤🎤singing musical numbers (> ~ <), <br />
   I'm 21 years old, and still have lots of time to learn and practice <br />
-  I look forward to meet many people, and having many connections with other developers ⌨️⌨️ 
+  I look forward to have many connections with other developers also. ⌨️⌨️ 
 
 <div>
   <h3> 🛠 Techs that I've used at least once 🛠 </h3>
