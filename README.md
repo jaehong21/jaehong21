@@ -54,6 +54,8 @@
     <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=jaehong21" /></img>
+
   <hr />
   <h5>Visit Here Freely</h5>
     <a href="https://www.facebook.com/profile.php?id=100005890684594"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
