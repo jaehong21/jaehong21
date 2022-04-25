@@ -52,14 +52,15 @@
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a>&nbsp
     
   <h5>More</h5>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>&nbsp
-  <br />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/></a>&nbsp
+  <br />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/DataDog-632CA6?style=flat&logo=DataDog&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=Figma&logoColor=white"/></a>&nbsp
@@ -67,7 +68,11 @@
     <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/></a>&nbsp 
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jaehong21" /></img>
+  <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=jaehong21&theme=dark" /></img>
+  <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaehong21&theme=dark" /></img>
+
 
   <hr />
   <h5>Visit Here Freely</h5>
