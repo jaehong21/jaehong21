@@ -18,6 +18,7 @@
   <p>
   <h4>Web/APP Developer</h4>
     <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Next.js&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
