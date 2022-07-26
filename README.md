@@ -4,7 +4,7 @@
     <br />
 </p>
     
-  👏👏 Hi there, I'm currently a **WEB developer** and looking forward to work as a **Full Stack Developer**. 🖥<br />
+  👏👏 Hi there, I'm currently a **WEB developer** and looking forward to work as a **DevOps Engineer**. 🖥<br />
   💁🏼‍♂️ Others may think this is too much, but I'm trying my best. <br />
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
 <br />
