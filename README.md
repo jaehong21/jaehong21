@@ -1,5 +1,5 @@
 <p style="font-size: 17px;">
-    <a href="https://https://jaehong21.notion.site/Jaehong-Jung-371e37a4015a4189bc329b419cc241c7/"><img src="https://img.shields.io/badge/notion-Click to view my Portfolio-beige?logo=notion" /></a>
+    <a href="https://jaehong21.notion.site/Jaehong-Jung-371e37a4015a4189bc329b419cc241c7/"><img src="https://img.shields.io/badge/notion-Click to view my Portfolio-beige?logo=notion" /></a>
     <a href="https://jaehong21.gitbook.io/ai-jaehong/"><img src="https://img.shields.io/badge/gitBook-AI__Portfolio-blue?logo=gitbook" /></a>
     <br />
 </p>
