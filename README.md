@@ -7,6 +7,7 @@
   👏👏 Hi there, I'm currently a **Backend Engineer** and working as **Tech Lead** in Startup '시고르자브종'. <br />
   I have big interest in **Blockchain** and thinking about my career path in that direction also. 📦<br />
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
+  
 <br />
 
   I enjoy 🎤🎤singing musical numbers (> ~ <), <br />
@@ -35,6 +36,7 @@
    <h4>Blockchain Developer</h4>
     <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=Web3.js&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Rust-981E32?style=flat&logo=Rust&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp
   <br />
 
