@@ -17,23 +17,25 @@
 <div>
   <h3> 🛠 Tech Stack 🛠 </h3>
   <p>
-  <h4>Web/APP Developer</h4>
+  <h4>Web Developer</h4>
     <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
   <br />
-    <img src="https://img.shields.io/badge/ReactNative-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>&nbsp
+  
+  <h4>DevOps Engineer</h4>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
-  <br />
 
-
-   <h4>Blockchain Developer</h4>
+  <h4>Blockchain Developer</h4>
     <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=Web3.js&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Rust-981E32?style=flat&logo=Rust&logoColor=white"/></a>&nbsp
@@ -42,7 +44,6 @@
 
   <h5>More</h5>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=Sentry&logoColor=white"/></a>&nbsp
