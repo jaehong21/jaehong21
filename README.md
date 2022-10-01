@@ -53,8 +53,6 @@
 </p>
 
   <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=jaehong21&theme=dark" /></img>
-  <br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaehong21&theme=dark" /></img>
 
 
