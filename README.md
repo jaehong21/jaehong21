@@ -36,6 +36,8 @@
   <br />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=AmazonEKS&logoColor=white"/></a>&nbsp
+  <br />
     <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
 
