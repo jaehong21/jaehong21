@@ -4,8 +4,8 @@
     <br />
 </p>
     
-  👏👏 Hi there, I'm currently a **Backend Engineer** and working as **Tech Lead** in Startup '시고르자브종'. <br />
-  I have big interest in **DevOps & Blockchain** and thinking about my career path in that direction also. 📦<br />
+  👏👏 Hi there, I'm currently a **DevOps Engineer** and working as **Tech Lead** in Startup '시고르자브종'. <br />
+  I have big interest in **Blockchain** and thinking about my career path in that direction also. 📦<br />
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
   
 <br />
@@ -18,8 +18,10 @@
   <h3> 🛠 Tech Stack 🛠 </h3>
   <p>
   <h4>Web Developer</h4>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Rust-F36D00?style=flat&logo=Rust&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
+
   <br />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Socket.io-21B573?style=flat&logo=Socket.io&logoColor=white"/></a>&nbsp
