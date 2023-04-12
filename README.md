@@ -4,6 +4,8 @@
     <br />
 </p>
     
+  My new blog: https://jaehong21.com  
+    
   👏👏 Hi there, I'm currently a **DevOps Engineer** and working as **Tech Lead** in Startup '시고르자브종'. <br />
   I have big interest in **Blockchain** and thinking about my career path in that direction also. 📦<br />
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
