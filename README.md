@@ -26,8 +26,9 @@
 
   <br />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Socket.io-21B573?style=flat&logo=Socket.io&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Flutter-5CC9B3?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=Next.js&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
@@ -56,12 +57,5 @@
 
   <br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaehong21&theme=dark" /></img>
-
-
-  <hr />
-  <h5>Visit Here Freely</h5>
-    <a href="https://www.facebook.com/profile.php?id=100005890684594"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /></a>&nbsp
-    <a href="https://www.instagram.com/jungpanda02/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white" /></a>&nbsp
-    <a href="mailto:jaehong21@gm.gist.ac.kr"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=jaehong21@gm.gist.ac.kr"/></a>&nbsp
   
 </div>
