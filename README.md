@@ -1,19 +1,14 @@
-<p style="font-size: 17px;">
-    <a href="https://jaehong21.notion.site/Jaehong-Jung-371e37a4015a4189bc329b419cc241c7/"><img src="https://img.shields.io/badge/notion-Click to view my Portfolio-beige?logo=notion" /></a>
-    <a href="https://ml.jaehong21.com"><img src="https://img.shields.io/badge/gitBook-AI__Portfolio-blue?logo=gitbook" /></a>
-    <br />
-</p>
+
+  My DEV blog: https://jaehong21.com
     
-  My new blog: https://jaehong21.com  
-    
-  👏👏 Hi there, I'm currently a **DevOps Engineer** and working as **Tech Lead** in Startup '시고르자브종'. <br />
+  👏👏 Hi there, I used to work as a **DevOps Engineer** and **Tech Lead** in Startup '시고르자브종'. <br />
   I have big interest in **Blockchain** and thinking about my career path in that direction also. 📦<br />
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
   
 <br />
 
   I enjoy 🎤🎤singing musical numbers (> ~ <), <br />
-  I'm 21 years old, and still have lots of time to learn and practice <br />
+  I'm 22 years old, and still have lots of time to learn and practice <br />
   I look forward to have many connections with other developers also. ⌨️⌨️ 
 
 <div>
