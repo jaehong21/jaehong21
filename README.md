@@ -1,7 +1,7 @@
 
   My DEV blog: https://jaehong21.com
     
-  👏👏 Hi there, I used to work as a **DevOps Engineer** and **Tech Lead** in Startup '시고르자브종'. <br />
+  👏👏 Hi there, I am a Backend/Infrastructure Developer for service 'Skrr'. <br />
   I have big interest in **Blockchain** and thinking about my career path in that direction also. 📦<br />
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
   
