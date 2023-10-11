@@ -12,7 +12,7 @@
   I look forward to have many connections with other developers also. ⌨️⌨️ 
 
 <div>
-  <h3> 🛠 Tech Stack 🛠 </h3>
+  <h3> 🛠 What I've experienced at least once 🛠 </h3>
   <p>
   <h4>Web Developer</h4>
     <img src="https://img.shields.io/badge/Rust-F36D00?style=flat&logo=Rust&logoColor=white"/></a>&nbsp
