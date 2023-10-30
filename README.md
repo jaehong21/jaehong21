@@ -7,7 +7,6 @@
   
 <br />
 
-  I enjoy 🎤🎤singing musical numbers (> ~ <), <br />
   I'm 22 years old, and still have lots of time to learn and practice <br />
   I look forward to have many connections with other developers also. ⌨️⌨️ 
 
