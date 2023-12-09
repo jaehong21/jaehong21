@@ -2,7 +2,7 @@
   My DEV blog: https://jaehong21.com
     
   👏👏 Hi there, I am a Backend/Infrastructure Developer for service 'Skrr'. <br />
-  I have big interest in **Blockchain** and thinking about my career path in that direction also. 📦<br />
+  I have big interest in **Blockchain** and **Cloud Automation**, thinking about my career path in that direction also. 📦<br />
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
   
 <br />
