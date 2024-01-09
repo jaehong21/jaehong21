@@ -3,13 +3,13 @@
 
   My DEV blog: https://jaehong21.com
     
-  👏👏 Hi there, I am a Backend/Infrastructure Developer for service 'Skrr'. <br />
+  👏👏 Hi there, I was Backend/Infrastructure Developer for service 'Skrr'. <br />
   I have big interest in **Blockchain** and **Cloud Automation**, thinking about my career path in that direction also.
   You can visit my repositories to look around some projects. Also, I often update my portolio which linked above 
   
 <br />
 
-  I'm 22 years old, and still have lots of time to learn and practice <br />
+  Now I am 22 years old, and still have lots of time to learn and practice <br />
   I look forward to have many connections with other developers also. ⌨️⌨️ 
 
 <div>
@@ -51,8 +51,4 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
 </p>
-
-  <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaehong21&theme=dark" /></img>
-  
 </div>
