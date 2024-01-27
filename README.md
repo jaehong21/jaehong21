@@ -9,6 +9,7 @@
 
   #### `$ cat ~/.jaehong21_history`
 
+- 🌎 Cheongshim International Academy (2015 - 2017)
 - 🏁 Korean Minjok Leadership Academy (2018 - 2020)
 - 🏎️ Electrical Engineering and Computer Sciences @ GIST (2021~)
   - 🔬 Research Intern @ [KAIST NetS&P](https://netsp.kaist.ac.kr/) (2023)
