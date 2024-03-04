@@ -9,14 +9,14 @@
 
   #### `$ cat ~/.jaehong21_history`
 
-- 🌎 Cheongshim International Academy (2015 - 2017)
-- 🏁 Korean Minjok Leadership Academy (2018 - 2020)
 - 🏎️ Electrical Engineering and Computer Sciences @ GIST (2021~)
+  - 🐳 DevOps Engineer @ [ChannelTalk](https://channel.io) (2024)
   - 🔬 Research Intern @ [KAIST NetS&P](https://netsp.kaist.ac.kr/) (2023)
   - ⚡️ Backend/Infrastructure Developer @ [Skrr](https://skrr.app/) (2023)
   - 🧠 Tech Lead @ [Sigor Inc.](https://doggly.co.kr/) (2022)
   - 🤑 Web3 Frontend Intern @ [PiLab Inc.](https://www.bifrostnetwork.com/) (2022)
-
+- 🏁 Korean Minjok Leadership Academy (2018 - 2020)
+- 🌎 Cheongshim International Academy (2015 - 2017)
 
 <div>
   <h3> 🛠 My Favorites 🛠 </h3>
