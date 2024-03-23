@@ -5,6 +5,9 @@
   You can visit my blog (https://jaehong21.com) freely to look around. Also, I sometimes update my website. <br />
   Now I am 22 years old, and still have lots of time to learn and practice <br />
   I look forward to have many connections with other developers also. <br />
+
+  I am also doing my personal projects on https://gitea.jaehong21.com <br />
+  Which is self-hosted Git on my homeserver (with Kubernetes in Arch Linux)
   
 
   #### `$ cat ~/.jaehong21_history`
