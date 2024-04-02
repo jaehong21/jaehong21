@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+jaehong21's+GitHub!👋)](https://git.io/typing-svg)
     
-  Currently, I am working for [Channel.io](https://channel.io) as *DevOps Engineer*. <br />
+  Currently, I am working at [Channel.io](https://channel.io) as a *DevOps Engineer*. <br />
   You can visit my [blog](https://jaehong21.com) freely to look around. I sometimes update my website. <br />
   Now I am 23 years old, and still have lots of time to learn and practice <br />
   I look forward to have many connections with other developers also. <br />
