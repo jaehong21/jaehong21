@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Kaniko-FFA600?style=flat&logo=Kaniko&logoColor=white"/></a>&nbsp
+<!--     <img src="https://img.shields.io/badge/Kaniko-FFA600?style=flat&logo=Kaniko&logoColor=white"/></a>&nbsp -->
   <br />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
@@ -53,7 +53,6 @@
   <br />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/SurrealDB-DF0067?style=flat&logo=SurrealDB&logoColor=white"/></a>&nbsp
   <br />
 
   <h5>Others</h5>
