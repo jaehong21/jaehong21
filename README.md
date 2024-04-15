@@ -57,7 +57,10 @@
 
   <h5>Others</h5>
     <img src="https://img.shields.io/badge/Rust-F36D00?style=flat&logo=Rust&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=Arch Linux&logoColor=white"/></a>&nbsp
+  <br />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
+
 </p>
 </div>
