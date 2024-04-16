@@ -32,8 +32,9 @@
 <!--     <img src="https://img.shields.io/badge/Kaniko-FFA600?style=flat&logo=Kaniko&logoColor=white"/></a>&nbsp -->
   <br />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/EKS-FF9900?style=flat&logo=AmazonEKS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=CircleCI&logoColor=white"/></a>&nbsp
