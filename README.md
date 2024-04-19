@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-<!--     <img src="https://img.shields.io/badge/Kaniko-FFA600?style=flat&logo=Kaniko&logoColor=white"/></a>&nbsp -->
+    <img src="https://img.shields.io/badge/Kaniko-FFA600?style=flat&logo=Kaniko&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
@@ -37,8 +37,8 @@
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=CircleCI&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=CircleCI&logoColor=white"/></a>&nbsp
   <br />
 
       
@@ -49,7 +49,10 @@
   <br />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=Gin&logoColor=white"/></a>&nbsp
+  <br />
     <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/htmx-3366CC?style=flat&logo=htmx&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Flutter-5CC9B3?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
@@ -62,6 +65,7 @@
   <br />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/1Password-3B66BC?style=flat&logo=1Password&logoColor=white"/></a>&nbsp
 
 </p>
 </div>
