@@ -6,11 +6,14 @@
   Now I am 23 years old, and still have lots of time to learn and practice <br />
   I look forward to have many connections with other developers also. <br />
 
-  I am also doing my personal projects on [Gitea](https://gitea.jaehong21.com) <br />
-  Which is self-hosted Git located at my homeserver *with k8s + Istio on top of Arch linux*
-  
+  My self-hosted services:
+  - [Gitea](https://gitea.jaehong21.com): Self-hosted git that I store my personal projects
+  - [Veronica](https://veronica.jaehong21.com): Collections of media streaming and tools for jaehong21
+  - [ArgoCD](https://argocd.jaehong21.com): GitOps for my homeserver *with k8s + Istio on top of Arch linux*
+  - [Excalidraw](https://excalidraw.jaehong21.com): Personal self-hosted excalidraw canvas
 
-  #### `$ cat ~/.jaehong21_history`
+ 
+#### `$ cat ~/.jaehong21_history`
 
 - 🏎️ Electrical Engineering and Computer Sciences @ GIST (2021~)
   - 🐳 DevOps Engineer @ [ChannelTalk](https://channel.io) (2024)
