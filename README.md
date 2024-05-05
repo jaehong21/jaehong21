@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=Gin&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Flutter-5CC9B3?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
