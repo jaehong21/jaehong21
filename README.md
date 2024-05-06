@@ -2,11 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+jaehong21's+GitHub!👋)](https://git.io/typing-svg)
     
   Currently, I am working at [Channel.io](https://channel.io) as a *DevOps Engineer*. <br />
-  You can visit my [blog](https://jaehong21.com) freely to look around. I sometimes update my website. <br />
-  Now I am 23 years old, and still have lots of time to learn and practice <br />
-  I look forward to have many connections with other developers also. <br />
-
+  Love Kuberenetes and Neovim these days.
+  
   My self-hosted services:
+  - [Dev Blog](https://jaehong21.com): Visit my jaehong21.com blog freely!
   - [Gitea](https://gitea.jaehong21.com): Self-hosted git that I store my personal projects
   - [Veronica](https://veronica.jaehong21.com): Collections of media streaming and tools for jaehong21
   - [ArgoCD](https://argocd.jaehong21.com): GitOps for my homeserver *with k8s + Istio on top of Arch linux*
