@@ -7,10 +7,7 @@
   My self-hosted services:
   - [Dev Blog](https://jaehong21.com): Visit my jaehong21.com blog freely!
   - [Gitea](https://gitea.jaehong21.com): Self-hosted git that I store my personal projects
-  - [Veronica](https://veronica.jaehong21.com): Collections of media streaming and tools for jaehong21
-  - [ArgoCD](https://argocd.jaehong21.com): GitOps for my on-premise Kubernetes cluster at my home (*Mem tot. 120GB*😎)
-  - [Excalidraw](https://excalidraw.jaehong21.com): Personal self-hosted excalidraw canvas
-
+  - [GitLab](https://gitlab.jaehong21.com): Self-hosted git that I store my personal projects
  
 #### `$ cat ~/.jaehong21_history`
 
