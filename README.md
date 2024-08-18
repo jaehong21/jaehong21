@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/EKS-FF9900?style=flat&logo=AmazonEKS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Cloudflare Workers-F38020?style=flat&logo=CloudflareWorkers&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
@@ -41,16 +42,15 @@
       
   <h4>Web/App Developer</h4>
     <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
-  <br />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=Gin&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
   <br />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/React-0088CC?style=flat&logo=React&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=Electron&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=Hono&logoColor=white"/></a>&nbsp
+  <br />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
