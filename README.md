@@ -2,10 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+jaehong21's+GitHub!👋)](https://git.io/typing-svg)
 
   Currently, I am working at [Channel.io](https://channel.io) as a DevOps Engineer. <br />
-  Love Kuberenetes and Neovim these days.
+  Love Nix and Neovim these days.
 
   _Running on-premise Kubernetes cluster in multi-region for fun. <br />
-  CPU 37core; Mem. 177GB scale_
+  CPU 37core; Mem. 177GB scale with 10 different nodes_
 
 - <https://jaehong21.com>: Visit my Dev blog freely!
 
