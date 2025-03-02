@@ -5,7 +5,7 @@
   Love Kuberenetes and Neovim these days.
 
   _Running on-premise Kubernetes cluster in multi-region for fun. <br />
-  CPU 32core; Mem. 152GB scale_
+  CPU 37core; Mem. 177GB scale_
 
 - <https://jaehong21.com>: Visit my Dev blog freely!
 
