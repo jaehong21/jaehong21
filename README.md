@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=Gin&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Helm-326CE5?style=flat&logo=Helm&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Istio Ambient-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Thanos-6D41FF?style=flat&logo=Thanos&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
   <br />
@@ -46,10 +46,11 @@
   <h3>at Home</h3>
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Istio Ambient-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=Hono&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=Bun&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
