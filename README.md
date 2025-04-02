@@ -53,8 +53,8 @@
     <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=Bun&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=Arch Linux&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=Debian&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
