@@ -7,10 +7,11 @@
   _Running on-premise Kubernetes cluster in multi-region for fun. <br />
   CPU 37core; Mem. 177GB scale with 10 different nodes_
 
-- <https://jaehong21.com>: Visit my Dev blog freely!
+#### `$ cat ~/.jaehong21_link`
+- 📝 Dev Blog; [jaehong21.com](https://jaehong21.com)
+- 📚 Books I've read; [book.jaehong21.com](https://book.jaehong21.com)
 
 #### `$ cat ~/.jaehong21_history`
-
 - 🏎️ EECS Undergraduate @ GIST (2021)
   - 🐳 DevOps Engineer @ [ChannelTalk](https://channel.io) (2024)
   - 🔬 Research Intern @ [KAIST NetS&P](https://netsp.kaist.ac.kr/) (2023)
