@@ -13,7 +13,7 @@
 
 #### `$ cat ~/.jaehong21_history`
 - 🏎️ EECS Undergraduate @ GIST (2021)
-  - 🐳 DevOps Engineer @ [ChannelTalk](https://channel.io) (2024)
+  - 🐳 DevOps Engineer @ [Channel.io](https://channel.io) (2024)
   - 🔬 Research Intern @ [KAIST NetS&P](https://netsp.kaist.ac.kr/) (2023)
   - ⚡️ Backend Developer @ [Skrr](https://disquiet.io/@khj03020302/makerlog/7844) (2023)
   - 🧠 Tech Lead @ [Sigor Inc.](https://doggly.co.kr/) (2022)
