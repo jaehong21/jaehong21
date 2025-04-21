@@ -5,7 +5,7 @@
   Love Nix and Neovim these days.
 
   _Running on-premise Kubernetes cluster in multi-region for fun. <br />
-  CPU 37core; Mem. 177GB scale with 10 different nodes_
+  CPU 36core; Mem. 176GB scale with 10 different nodes_
 
 #### `$ cat ~/.jaehong21_link`
 - 📝 Dev Blog; [jaehong21.com](https://jaehong21.com)
@@ -55,8 +55,8 @@
     <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=Bun&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=Arch Linux&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=ArchLinux&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
