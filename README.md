@@ -10,7 +10,7 @@
 #### `$ cat ~/.jaehong21_link`
 - 📝 Dev Blog; [jaehong21.com](https://jaehong21.com)
 - 📚 Books I've read; [book.jaehong21.com](https://book.jaehong21.com)
-- 🐈 Maintainer of Uptimecat; [uptimecat.app](https://uptimecat.app)
+- 🐈 Maintainer of Uptimecat; [uptimecat.io](https://uptimecat.io)
 
 #### `$ cat ~/.jaehong21_history`
 - 🏎️ EECS Undergraduate @ GIST (2021)
