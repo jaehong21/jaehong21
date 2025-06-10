@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+jaehong21's+GitHub!👋)](https://git.io/typing-svg)
 
-  Currently, I am working at [Channel.io](https://channel.io) as a DevOps Engineer. <br />
+  Currently, I am working at [Channel.io](https://channel.io) as a DevOps Engineer. 
   Love Nix and Neovim these days.
-
-  _Running on-premise Kubernetes cluster in multi-region for fun. <br />
-  CPU 36core; Mem. 176GB scale with 10 different nodes_
+  Running on-premise Kubernetes cluster in multi-region for fun.
+  _CPU 36core; Mem. 176GB scale with 10 different nodes_
 
 #### `$ cat ~/.jaehong21_link`
 - 📝 Dev Blog; [jaehong21.com](https://jaehong21.com)
@@ -50,17 +49,17 @@
     <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
   <br />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=Hono&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=Bun&logoColor=white"/></a>&nbsp
-  <br />
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=ArchLinux&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=WireGuard&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white"/></a>&nbsp
+  <br />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=Hono&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=Bun&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/React-466BB0?style=flat&logo=React&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=tRPC&logoColor=white"/></a>&nbsp
