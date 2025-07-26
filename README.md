@@ -45,23 +45,19 @@
   <br />
 
   <h3>at Home</h3>
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Nushell-4E9A06?style=flat&logo=Nushell&logoColor=white"/></a>&nbsp
+  <br />
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=WireGuard&logoColor=white"/></a>&nbsp
-  <br />
-    <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Tailscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=Hono&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=Bun&logoColor=white"/></a>&nbsp
-  <br />
-    <img src="https://img.shields.io/badge/React-466BB0?style=flat&logo=React&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=tRPC&logoColor=white"/></a>&nbsp
 </p>
 </div>
