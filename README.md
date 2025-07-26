@@ -47,14 +47,12 @@
   <h3>at Home</h3>
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Nushell-4E9A06?style=flat&logo=Nushell&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Tailscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
-  <br />
-    <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=RaspberryPi&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Tailscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=Hono&logoColor=white"/></a>&nbsp
