@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+jaehong21's+GitHub!👋)](https://git.io/typing-svg)
 
   Currently, I am working at [Channel.io](https://channel.io) as a DevOps Engineer. 
-  Love Nix and Neovim these days.
+  Love Nix and Neovim, and getting used to nushell these days.
   Running on-premise Kubernetes cluster in multi-region for fun.
   _CPU 36core; Mem. 176GB scale with 10 different nodes_
 
