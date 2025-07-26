@@ -6,26 +6,23 @@
   Running on-premise Kubernetes cluster in multi-region for fun.
   _CPU 36core; Mem. 176GB scale with 10 different nodes_
 
-#### `$ cat ~/.jaehong21_link`
-- 📝 Dev Blog; [jaehong21.com](https://jaehong21.com)
-- 📚 Books I've read; [book.jaehong21.com](https://book.jaehong21.com)
-- 🐈 [WIP] Maintainer of Uptimecat; [uptimecat.io](https://uptimecat.io)
-
 #### `$ cat ~/.jaehong21_history`
-- 🏎️ EECS Undergraduate @ GIST (2021 ~ Present)
+- Careers
   - 🐳 DevOps Engineer @ [Channel.io](https://channel.io) (2024 ~ Present)
   - 🔬 Research Intern @ [KAIST NetS&P](https://netsp.kaist.ac.kr/) (2023)
   - ⚡️ Backend Developer @ [Skrr](https://disquiet.io/@khj03020302/makerlog/7844) (2023)
   - 🧠 Tech Lead @ [Sigor Inc.](https://doggly.co.kr/) (2022)
   - 🤑 Web3 Frontend Intern @ [PiLab Inc.](https://www.bifrostnetwork.com/) (2022)
-- 🏁 Korean Minjok Leadership Academy (2018 ~ 2020)
-- 🌎 Cheongshim International Academy (2015 ~ 2017)
+- Education
+  - 🏎️ EECS Undergraduate @ [GIST](https://eecs.gist.ac.kr/) (2021 ~ Present)
+  - 🏁 [Korean Minjok Leadership Academy](https://www.minjok.hs.kr/) (2018 ~ 2020)
+  - 🌎 [Cheongshim International Academy](https://www.csia.hs.kr/) (2015 ~ 2017)
+
 
 <div>
-  <h3> 🛠 My Favorites 🛠 </h3>
+  <h3> 👨‍🔬 My Favorites </h3>
   <p>
-
-  <h3>at Work</h3>
+  <h3>🏃‍➡️ at Work</h3>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp
@@ -44,7 +41,7 @@
     <img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=CircleCI&logoColor=white"/></a>&nbsp
   <br />
 
-  <h3>at Home</h3>
+  <h3>🏠 at Home</h3>
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Nushell-4E9A06?style=flat&logo=Nushell&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
