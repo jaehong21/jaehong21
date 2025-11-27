@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+jaehong21's+GitHub!👋)](https://git.io/typing-svg)
 
   Currently, I am working at [Channel.io](https://channel.io) as a DevOps Engineer. 
-  Love Nix and Neovim, and getting used to nushell these days.
+  Love Nix and Neovim, and getting used to Linux Desktop Environment these days.
   Running on-premise Kubernetes cluster in multi-region for fun.
-  _CPU 36core; Mem. 176GB scale with 10 different nodes_
+  _CPU 40core; Mem. 200GB scale with 10 different nodes_
 
 #### `$ cat ~/.jaehong21_history`
 - Careers
@@ -33,19 +33,21 @@
     <img src="https://img.shields.io/badge/Thanos-6D41FF?style=flat&logo=Thanos&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
   <br />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/EKS-FF9900?style=flat&logo=AmazonEKS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
+    <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900?logo=aws&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Argo Workflows-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=CircleCI&logoColor=white"/></a>&nbsp
   <br />
 
   <h3>🏠 at Home</h3>
-    <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Nushell-4E9A06?style=flat&logo=Nushell&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Tailscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=ArchLinux&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Hyprland-1793D1?style=flat&logo=Hyprland&logoColor=white"/></a>&nbsp    
+ <br />
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Headscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white"/></a>&nbsp
