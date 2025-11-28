@@ -30,10 +30,10 @@
   <br />
     <img src="https://img.shields.io/badge/Helm-326CE5?style=flat&logo=Helm&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Istio Ambient-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Thanos-6D41FF?style=flat&logo=Thanos&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Terragrunt-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900?logo=aws&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Loki,Grafana,Mimir-F46800?style=flat&logo=Grafana&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Argo Workflows-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
   <br />
@@ -47,7 +47,9 @@
     <img src="https://img.shields.io/badge/Hyprland-1793D1?style=flat&logo=Hyprland&logoColor=white"/></a>&nbsp    
  <br />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Headscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/GreptimeDB-8322FF?style=flat&logo=GreptimeDB&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white"/></a>&nbsp
