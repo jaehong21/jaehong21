@@ -35,8 +35,8 @@
     <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900?logo=aws&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Loki,Grafana,Mimir-F46800?style=flat&logo=Grafana&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Argo Workflows-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>&nbsp
   <br />
+    <img src="https://img.shields.io/badge/OpenTelemetry-3D4C86?style=flat&logo=OpenTelemetry&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=CircleCI&logoColor=white"/></a>&nbsp
   <br />
