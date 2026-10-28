@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+jaehong21's+GitHub!👋)](https://git.io/typing-svg)
 
   Currently, I am working at [Channel.io](https://channel.io) as a DevOps Engineer. 
-  Love Nix and Neovim, and getting used to Linux Desktop Environment these days.
+  Love Nix and Neovim, and getting used to Colemak keyboard layout and Helix editor these days.
   Running on-premise Kubernetes cluster in multi-region for fun.
   _CPU 40core; Mem. 200GB scale with 10 different nodes_
 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=Gin&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Helm-326CE5?style=flat&logo=Helm&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Istio Ambient-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
@@ -44,15 +44,13 @@
   <h3>🏠 at Home</h3>
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=NixOS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Arch Linux-1793D1?style=flat&logo=ArchLinux&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Hyprland-1793D1?style=flat&logo=Hyprland&logoColor=white"/></a>&nbsp    
  <br />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=Gitea&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Headscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/GreptimeDB-8322FF?style=flat&logo=GreptimeDB&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Helix-281733?style=flat&logo=Helix&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Forgejo-FB923C?style=flat&logo=Forgejo&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=K3s&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Headscale-242424?style=flat&logo=Tailscale&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>&nbsp
   <br />
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white"/></a>&nbsp
